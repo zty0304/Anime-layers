@@ -10,10 +10,7 @@
     <sup>1</sup> Japan Advanced Institute of Science and Technology (JAIST)
   </p>
   <p align="center">
-    <sup>2</sup> Live2D Inc.
-  </p>
-  <p align="center">
-    <sup>3</sup> Waseda University,
+    <sup>2</sup> Live2D Inc. , <sup>3</sup> Waseda University
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2603.14925'>
