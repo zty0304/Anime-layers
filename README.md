@@ -10,9 +10,12 @@
     <a href='https://arxiv.org/abs/2603.14925'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
     </a>
-    <a href='https://github.com/zty0304/Anime-layer-decomposition' style='padding-left: 0.5rem;'>
-      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Code'>
-    </a>
+  <a href='https://github.com/zty0304/Anime-layer-decomposition'>
+    <img src='https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github' alt='Code GitHub'>
+  </a>
+  <a href='#'>
+    <img src='https://img.shields.io/badge/Demo-Coming Soon-orange?style=flat' alt='Demo'>
+  </a>
   </p>
 </p>
 
