@@ -39,7 +39,7 @@ Overview of our anime illustration decomposition framework. (a) We enhance the [
 <h3 align="center">Dataset</h3>
 
 <p align="center">
-  <img src="imgs/dataset.png" width="80%">
+  <img src="imgs/datatset.png" width="80%">
 </p>
 
 We have compiled a high-quality anime illustration dataset with layered annotations. Each sample consists of (a) a source image and its manually decomposed layers, including (b) line art, (c) flat color, (d) highlight, and (e) shadow. 
