@@ -29,6 +29,23 @@ Our framework decomposes anime illustrations into four layers, including line ar
 
 Recent generative image editing methods adopt layered representations to mitigate the entangled nature of raster images and improve controllability, typically relying on object-based segmentation. However, such strategies may fail to capture the structural and stylized properties of human-created images, such as anime illustrations. To solve this issue, we propose a workflow-aware structured layer decomposition framework tailored to the illustration production of anime artwork. Inspired by the creation pipeline of anime production, our method decomposes the illustration into semantically meaningful production layers, including line art, flat color, shadow, and highlight. To decouple all these layers, we introduce lightweight layer semantic embeddings to provide specific task guidance for each layer. Furthermore, a set of layer-wise losses is incorporated to supervise the training process of individual layers. To overcome the lack of ground-truth layered data, we construct a high-quality illustration dataset that simulated the standard anime production workflow. Experiments demonstrate that the accurate and visually coherent layer decompositions were achieved by using our method. We believe that the resulting layered representation further enables downstream tasks such as recoloring and embedding texture, supporting content creation, and illustration editing.
 
+<h3 align="center">Framework</h3>
+
+<p align="center">
+  <img src="imgs/framework.png" width="80%">
+</p>
+Overview of our anime illustration decomposition framework. (a) We enhance the [Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered) with layer semantic embeddings and a multi-faceted Layer-wise supervision loss, to improve disentanglement and rendering quality.
+
+<h3 align="center">Datasetk</h3>
+
+<p align="center">
+  <img src="imgs/dataset" width="80%">
+</p>
+
+We have compiled a high-quality anime illustration dataset with layered annotations. Each sample consists of (a) a source image and its manually decomposed layers, including (b) line art, (c) flat color, (d) highlight, and (e) shadow. 
+
+All data are produced by two experienced artists, where one artist is responsible for layer creation and the other performs supervision and quality refinement.
+
 # BibTeX
 If you find Project Name useful for your work please cite:
 ```
