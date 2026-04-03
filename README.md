@@ -1,10 +1,19 @@
 <p align="center">
   <h1 align="center">Workflow-Aware Structured Layer Decomposition for Illustration Production</h1>
   <p align="center">
-    <a href="https://zty0304.github.io/">Tianyu Zhang</a>,
-    <a>Dongchi Li</a>,
-    <a>Keiichi Sawada</a>,
-    <a href="https://www.jaist.ac.jp/~xie/">Haoran Xie</a>
+    <a href="https://zty0304.github.io/">Tianyu Zhang</a><sup>1</sup>,
+    <a>Dongchi Li</a><sup>2</sup>,
+    <a>Keiichi Sawada</a><sup>2</sup>,
+    <a href="https://www.jaist.ac.jp/~xie/">Haoran Xie</a><sup>1,3</sup>
+  </p>
+  <p align="center">
+    <sup>1</sup> Japan Advanced Institute of Science and Technology (JAIST)
+  </p>
+  <p align="center">
+    <sup>2</sup> Live2D Inc.
+  </p>
+  <p align="center">
+    <sup>3</sup> Waseda University,
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2603.14925'>
