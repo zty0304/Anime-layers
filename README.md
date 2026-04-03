@@ -25,9 +25,9 @@
 </p>
 Our framework decomposes anime illustrations into four layers, including line art, flat color, highlight, and shadow layers, to align with professional creation workflow.
 
-# Project Name
+<h3 align="center">Abstract</h3>
 
-This is the repository that contains source code for [Project Name](https://ripl.github.io/ProjectName).
+Recent generative image editing methods adopt layered representations to mitigate the entangled nature of raster images and improve controllability, typically relying on object-based segmentation. However, such strategies may fail to capture the structural and stylized properties of human-created images, such as anime illustrations. To solve this issue, we propose a workflow-aware structured layer decomposition framework tailored to the illustration production of anime artwork. Inspired by the creation pipeline of anime production, our method decomposes the illustration into semantically meaningful production layers, including line art, flat color, shadow, and highlight. To decouple all these layers, we introduce lightweight layer semantic embeddings to provide specific task guidance for each layer. Furthermore, a set of layer-wise losses is incorporated to supervise the training process of individual layers. To overcome the lack of ground-truth layered data, we construct a high-quality illustration dataset that simulated the standard anime production workflow. Experiments demonstrate that the accurate and visually coherent layer decompositions were achieved by using our method. We believe that the resulting layered representation further enables downstream tasks such as recoloring and embedding texture, supporting content creation, and illustration editing.
 
 # BibTeX
 If you find Project Name useful for your work please cite:
