@@ -19,6 +19,12 @@
   </p>
 </p>
 
+
+<p align="center">
+  <img src="imgs/teaser.png" width="80%">
+</p>
+Our framework decomposes anime illustrations into four layers including line art, flat color, highlight, and shadow layers, to align with professional creation workflow.
+
 # Project Name
 
 This is the repository that contains source code for [Project Name](https://ripl.github.io/ProjectName).
