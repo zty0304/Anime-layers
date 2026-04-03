@@ -34,7 +34,7 @@ Recent generative image editing methods adopt layered representations to mitigat
 <p align="center">
   <img src="imgs/framework.png" width="80%">
 </p>
-Overview of our anime illustration decomposition framework. (a) We enhance the [Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered) with layer semantic embeddings and a multi-faceted Layer-wise supervision loss, to improve disentanglement and rendering quality.
+Overview of our anime illustration decomposition framework. (a) We enhance the <a href="https://huggingface.co/Qwen/Qwen-Image-Layered">Qwen-Image-Layered</a> with layer semantic embeddings and a multi-faceted Layer-wise supervision loss, to improve disentanglement and rendering quality.
 
 <h3 align="center">Dataset</h3>
 
@@ -45,6 +45,20 @@ Overview of our anime illustration decomposition framework. (a) We enhance the [
 We have compiled a high-quality anime illustration dataset with layered annotations. Each sample consists of (a) a source image and its manually decomposed layers, including (b) line art, (c) flat color, (d) highlight, and (e) shadow. 
 
 All data are produced by two experienced artists, where one artist is responsible for layer creation and the other performs supervision and quality refinement.
+
+<h3 align="center">Results</h3>
+
+<p align="center">
+  <img src="imgs/more_results.png" width="80%">
+</p>
+Some results of our method. Our method is capable of generating various functional layers utilized in the professional illustration workflow.
+
+<h3 align="center">Applications</h3>
+
+<p align="center">
+  <img src="imgs/app.png" width="80%">
+</p>
+Our decomposed layers allow for precise control over surface attributes like light hue and material textures.
 
 # BibTeX
 If you find Project Name useful for your work please cite:
