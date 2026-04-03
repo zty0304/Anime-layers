@@ -2,8 +2,8 @@
   <h1 align="center">Workflow-Aware Structured Layer Decomposition for Illustration Production</h1>
   <p align="center">
     <a href="https://zty0304.github.io/">Tianyu Zhang</a>,
-    <a>Dongchi Li</a>
-    <a>Keiichi Sawada</a>
+    <a>Dongchi Li</a>,
+    <a>Keiichi Sawada</a>,
     <a href="https://www.jaist.ac.jp/~xie/">Haoran Xie</a>
   </p>
   <p align="center">
