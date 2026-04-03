@@ -23,10 +23,10 @@ This is the repository that contains source code for [Project Name](https://ripl
 # BibTeX
 If you find Project Name useful for your work please cite:
 ```
-@article{key
-  author    = {Author One and Author Two},
-  title     = {Paper Title},
-  journal   = {arXiv preprint arXiv:NUMBER},
-  year      = {2024},
+@article{zhang2026workflow,
+  title={Workflow-Aware Structured Layer Decomposition for Illustration Production},
+  author={Zhang, Tianyu and Li, Dongchi and Sawada, Keiichi and Xie, Haoran},
+  journal={arXiv preprint arXiv:2603.14925},
+  year={2026}
 }
 ```
