@@ -11,9 +11,9 @@
   </p>
   <p align="center">
     <sup>2</sup> Live2D Inc. , <sup>3</sup> Waseda University
-  </p>
+  </p>-->
   <p align="center">
-    <a href='https://arxiv.org/abs/2603.14925'>
+      <!--<a href='https://arxiv.org/abs/2603.14925'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
     </a> -->
   <a href='https://github.com/zty0304/Anime-layer-decomposition'>
