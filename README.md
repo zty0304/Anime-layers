@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Workflow-Aware Structured Layer Decomposition for Illustration Production</h1>
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://zty0304.github.io/">Tianyu Zhang</a><sup>1</sup>,
     <a>Dongchi Li</a><sup>2</sup>,
     <a>Keiichi Sawada</a><sup>2</sup>,
@@ -15,7 +15,7 @@
   <p align="center">
     <a href='https://arxiv.org/abs/2603.14925'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
-    </a>
+    </a> -->
   <a href='https://github.com/zty0304/Anime-layer-decomposition'>
     <img src='https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github' alt='Code GitHub'>
   </a>
