@@ -15,10 +15,10 @@
   <p align="center">
       <!--<a href='https://arxiv.org/abs/2603.14925'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
-    </a> -->
+    </a> 
   <a href='https://github.com/zty0304/Anime-layer-decomposition'>
     <img src='https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github' alt='Code GitHub'>
-  </a>
+  </a>-->
   <a href='#'>
     <img src='https://img.shields.io/badge/Demo-Coming Soon-orange?style=flat' alt='Demo'>
   </a>
