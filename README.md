@@ -65,7 +65,7 @@ Some results of our method. Our method is capable of generating various function
   <img src="imgs/app.png" width="80%">
 </p>
 Our decomposed layers allow for precise control over surface attributes like light hue and material textures.
-
+<!--
 # BibTeX
 If you find Project Name useful for your work please cite:
 ```
@@ -76,3 +76,4 @@ If you find Project Name useful for your work please cite:
   year={2026}
 }
 ```
+-->
